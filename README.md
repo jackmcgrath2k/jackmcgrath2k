@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Some AI based apps and other smaller projects for fun.<br>👯 I’m looking to collaborate on: anything!<br>🌱 I’m currently learning: Machine Learning with python and aiming to advance my education with a masters degree in cybersecurity.<br>
+🔭 Currently working on: Some AI based apps and other smaller projects for fun.<br><br>🌱 I’m currently learning: Machine Learning with python and aiming to advance my education with a masters degree in cybersecurity.<br>
 
 
 # 💻 Tech Stack:
